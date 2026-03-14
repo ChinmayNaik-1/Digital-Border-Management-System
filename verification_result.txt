@@ -1,0 +1,8 @@
+BORDER PROTECTION - FACE VERIFICATION RESULTS
+============================================================
+Timestamp: 2026-03-14 01:13:05
+Reference Image: C:\Users\chinm\OneDrive\Pictures\Camera Roll\WIN_20260314_00_55_40_Pro.jpg
+Confidence Score: 80.53%
+Euclidean Distance: 6356.49
+Result: MATCHED
+============================================================
